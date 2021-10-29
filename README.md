@@ -14,3 +14,5 @@ CREATE
 INDEX SYAIN_NAME
 ON 社員マスタa (氏名);
 ```
+
+![image](https://user-images.githubusercontent.com/1501327/139392975-4b1ebb44-ad61-470b-9549-894dff451513.png)
