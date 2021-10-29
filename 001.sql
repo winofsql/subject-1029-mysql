@@ -67,7 +67,6 @@ DELETE FROM
     社員マスタ;
 
 SELECT
-,
     SYSDATE(),
     NOW(),
     CURDATE();
