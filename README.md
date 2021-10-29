@@ -9,5 +9,6 @@ ADD
 
 CREATE 
 --    UNIQUE
-INDEX SYAIN_NAME ON 社員マスタa (氏名);
+INDEX SYAIN_NAME
+ON 社員マスタa (氏名);
 ```
