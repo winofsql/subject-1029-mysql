@@ -3,6 +3,8 @@ INSERT INTO
 VALUES
     ('0001');
 
+-- ▼ WinOfSql で作成
+
 INSERT INTO
     `社員マスタ` (
         `社員コード`,
